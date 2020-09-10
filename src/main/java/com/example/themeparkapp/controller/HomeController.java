@@ -6,6 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
     public String sayHello()
     {
-        return "hello world";
+        return "hello world docker";
     }
 }
